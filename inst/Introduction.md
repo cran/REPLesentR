@@ -3,7 +3,7 @@
 # REPLesentR: Presentations inside the R REPL
 
 author: Sebastian Warnholz  
-date: 2018-09-23  
+date: 2018-10-30  
 email: wahani@gmail.com  
 
 
