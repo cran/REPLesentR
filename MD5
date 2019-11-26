@@ -1,4 +1,4 @@
-6c06ff4a350f511125775c0dfa48f13c *DESCRIPTION
+1b2e16a4a5baaf14c79463748ed8755e *DESCRIPTION
 9e7e159c72be91c183ba928e5989c6fe *LICENSE
 3e07244563b806397ce9ff7753fc433c *NAMESPACE
 afe68b2b68b930ea53895eb6e5673e45 *NEWS
@@ -7,7 +7,7 @@ a299c9d326efb9ff877b2384709ce7a0 *R/CurrentSlide.R
 a3409a441be124a6118365743deeae0c *R/Layout.R
 d47621d7e0bd18cdaa90779f870f3aab *R/NAMESPACE.R
 b5fec8bce7d96be8896b4f829e3fa553 *R/Presentation.R
-58aef3fdb9cfb684b8772bb0180280c0 *R/Read.R
+83658e2b584e7489d9a009678de6d5d7 *R/Read.R
 fb14827df2961307ef10dff4f9b5d2f2 *R/Render.R
 5157e88a0bf5fa20c76a998712880308 *R/Screen.R
 2a578a712584e62c6b978b1eb23d686d *R/Slide.R
@@ -21,7 +21,7 @@ b1c9535018fd285e69c53b2cb71a3d69 *man/Evaluate.Rd
 819504eee4dd88153c48d23fb07fec5f *man/Read.Rd
 faf5a03378dae2c5390361a309252a5e *man/newPresentation.Rd
 ab1325c325d85bfa5965bca9bc681e66 *tests/testthat.R
-94e72dc851daf93600fb603ec572f0d8 *tests/testthat/test-Evaluate.R
+70fef409d3f009787555e20b30450eba *tests/testthat/test-Evaluate.R
 9c8490103a81c2178696ef935fc37ef0 *tests/testthat/test-Render.R
 8cd4d957c7aeeb31214e81da3c409ef4 *tests/testthat/test-Slide.R
 b82fb7821640432c37caa817d84d1774 *tests/testthat/test-SlideDeck.R
